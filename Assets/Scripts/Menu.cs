@@ -171,6 +171,9 @@ public class Menu : MonoBehaviourPunCallbacks, ILobbyCallbacks
 
     #region LOBBY_BROWSING_SCREEN
 
+    // This script is based, in part, on the PhotonEngine.com Documentaion
+    // https://doc.photonengine.com/fusion/current/fusion-100/overview
+
     GameObject CreateRoomButton ()
     {
         GameObject buttonGameObject = Instantiate(roomButtonPrefab,                             // Instantiates a button                             
