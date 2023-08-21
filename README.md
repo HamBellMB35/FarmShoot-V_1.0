@@ -1,5 +1,5 @@
 # FarmShoot-V_1.0
-Basic multiplayer project demostrating the use of Photon PUN
+Basic multiplayer project demonstrating the use of Photon PUN
 
 Game level map obtained from POLYGON Farm - Low Poly 3D Art by Synty
 https://assetstore.unity.com/packages/3d/environments/industrial/polygon-farm-low-poly-3d-art-by-synty-146192 
